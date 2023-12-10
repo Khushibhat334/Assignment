@@ -31,7 +31,8 @@ printf("subject2:%d\n",s[i].m2);
 printf("subject3:%d\n",s[i].m3);
 printf("Total:%d\n",s[i].tot);
 printf("Average:%f\n",s[i].avg);
-printf("Result:%c"\n,s[i].r);
+printf("Result:%c\n",s[i].r);
+}
 }
 
 
